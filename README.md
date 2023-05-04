@@ -1,2 +1,2 @@
-# GERENCIADOR
+# Gerenciador de Equipamentos
  
